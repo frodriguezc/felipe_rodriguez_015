@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="food_name">Nombre de la comida</string>
+    <string name="quantity">Cantidad</string>
+    <string name="delivery_address">Dirección de despacho</string>
+    <string name="request_info">Mostrar información del pedido</string>
+</resources>
